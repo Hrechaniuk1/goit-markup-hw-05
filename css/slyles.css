@@ -565,6 +565,11 @@ footer .site-logo {
         gap: 16px;
         border-radius: 4px;
         border: none;
+        transition: background-color 250ms ease-in-out;
+}
+
+.form-button:hover {
+    background-color: #404BBF;
 }
 
 .form-button-icon {
