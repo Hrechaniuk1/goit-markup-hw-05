@@ -789,12 +789,11 @@ width: 16px;
     fill: transparent;
 }
 
-.checkbox:checked + .fake-checkbox {
+.checkbox:checked + .form-label-policy .fake-checkbox {
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;;
 }
-
 
 
 /* modal */
